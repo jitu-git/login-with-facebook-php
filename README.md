@@ -29,4 +29,4 @@ Now create a file `index.php` and configure facebook sdk.
         $loginUrl = $helper->getLoginUrl($baseUrl.'login-callback.php', $permissions);
          <a href="<?php echo $loginUrl ; ?>" class="form-facebook-button">Facebook</a>
 
-[See Demo here](http://minmarks.com/demo/login-with-facebook-php/)
+[See Demo here](https://www.maxmarks.in/demo/login-with-facebook-php/)
